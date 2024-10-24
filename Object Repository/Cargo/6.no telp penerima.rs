@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>6.no telp penerima</name>
+   <tag></tag>
+   <elementGuidId>4a70c3bc-2048-4adc-801e-2f8d6de43af6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[3]/div[3]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1f85b14c-d0f5-4d26-a147-f697bc8227cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nomor Telepon Penerima *+62</value>
+      <webElementGuid>cd0e6894-a499-45ef-b65a-336409f22a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;mt-content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;bg-white shadow-custom px-8 py-8 rounded-2xl -top-20 lg:-top-14 relative z-10&quot;]/div[@class=&quot;border border-gray-100 rounded-xl mt-6 relative&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;grid gap-5 md:grid-cols-2&quot;]/div[2]</value>
+      <webElementGuid>6472ca0e-883d-4f5b-8b94-93866f81952f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[3]/div[3]/div/div[2]</value>
+      <webElementGuid>0ed2c898-07f2-41a5-8e28-0fd4296e06f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::div[1]</value>
+      <webElementGuid>ebfa1c7c-2022-4e39-8290-eac793dba613</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div[2]</value>
+      <webElementGuid>cf6d6e4f-ba48-4ee2-bfce-9c13fda263d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nomor Telepon Penerima *+62' or . = 'Nomor Telepon Penerima *+62')]</value>
+      <webElementGuid>8b9d78ad-152d-43b5-a161-6656dd258ad8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

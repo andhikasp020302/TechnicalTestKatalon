@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Happy flow</description>
+   <name>TCW04 - Order Cargo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5757dd1-5dc4-4813-b1e3-534bc44afba8</testCaseGuid>
+</TestCaseEntity>

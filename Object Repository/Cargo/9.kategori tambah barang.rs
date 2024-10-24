@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>9.kategori tambah barang</name>
+   <tag></tag>
+   <elementGuidId>5454b402-b0a3-444c-b8e8-72f644fefd34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#armada</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='armada']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4d9cac0d-dc30-43b3-830d-9830592d0300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>armada</value>
+      <webElementGuid>a96ceb26-e055-4148-bc12-9b23c32ed0b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-gray-200 text-black text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500</value>
+      <webElementGuid>a397466e-184e-4838-9af5-f5143359fe62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Kategori BarangPakaianKosmetikAksesorisMakanan Non FrozenElektronikPerabotanMotorLainnya</value>
+      <webElementGuid>059a1986-2126-4f81-a647-c65c7a2ac13e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;armada&quot;)</value>
+      <webElementGuid>ddb677af-b4ef-4303-b42e-5d7e1c74931d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='armada']</value>
+      <webElementGuid>e9f0d485-e951-427b-afe8-9e4f3ea559a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div/div[2]/select</value>
+      <webElementGuid>ee0ed129-0f8e-456d-9af4-797ea7e4f0db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori Barang'])[1]/following::select[1]</value>
+      <webElementGuid>4e83d105-a58f-4c5a-8595-ea9ce97ceadb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close modal'])[1]/following::select[1]</value>
+      <webElementGuid>3dbd347b-2097-4c5f-912f-2d979239c681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berat Barang (kg)'])[1]/preceding::select[1]</value>
+      <webElementGuid>548ee3f5-9578-40b5-abc2-af1c140e928e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Paket'])[1]/preceding::select[1]</value>
+      <webElementGuid>534eca00-0d67-431f-97ef-0157b6948a8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>b300e31b-ba59-4266-b1cc-f7886a69e760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'armada' and (text() = 'Pilih Kategori BarangPakaianKosmetikAksesorisMakanan Non FrozenElektronikPerabotanMotorLainnya' or . = 'Pilih Kategori BarangPakaianKosmetikAksesorisMakanan Non FrozenElektronikPerabotanMotorLainnya')]</value>
+      <webElementGuid>636c40be-67af-4228-9ba3-2c81dc871e3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

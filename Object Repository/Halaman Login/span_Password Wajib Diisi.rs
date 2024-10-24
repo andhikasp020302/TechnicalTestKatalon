@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Password Wajib Diisi</name>
+   <tag></tag>
+   <elementGuidId>0f8c0d94-8cce-41c3-8029-666a5c69e38a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/form/div[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>efc2e7a3-63fb-4410-b116-92de5adc663f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>e51d572b-0700-4604-93c8-2481128a194a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error-message capitalize</value>
+      <webElementGuid>1b620320-36c4-4f22-9023-dd6df4986cc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password Wajib Diisi</value>
+      <webElementGuid>86c56c14-7e8b-4d40-8945-f205936cc401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;h-screen lg:flex items-center mt-20 lg:mt-0&quot;]/div[@class=&quot;md:w-[100%] lg:w-2/3 items-center bg-white lg:px-24 px-4&quot;]/form[@class=&quot;bg-white mt-7&quot;]/div[@class=&quot;mt-1&quot;]/span[@class=&quot;error-message capitalize&quot;]</value>
+      <webElementGuid>07e10d31-989d-4d9b-b96c-64db09d596c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/form/div[4]/span</value>
+      <webElementGuid>49feebba-9641-4070-9bec-5b42e7b7a272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Wajib Diisi'])[1]/following::span[1]</value>
+      <webElementGuid>232d3277-5603-41bf-aa29-50233d588c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Troben'])[1]/following::span[2]</value>
+      <webElementGuid>b8ac7518-9df5-4bbd-9f21-f55759d80e63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk Dengan Nomor Telepon?'])[1]/preceding::span[2]</value>
+      <webElementGuid>83fa5649-b824-4d07-a39a-3b1b286976d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::span[2]</value>
+      <webElementGuid>92529357-e883-456b-a2d8-e15776b962f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password Wajib Diisi']/parent::*</value>
+      <webElementGuid>94550f0e-39cf-45fa-81f3-1e26adc4bac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span</value>
+      <webElementGuid>81d07c2b-00e1-4340-82d2-385b5f6caad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Password Wajib Diisi' or . = 'Password Wajib Diisi')]</value>
+      <webElementGuid>3415f5f1-f3fe-436d-8982-98a81080924f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

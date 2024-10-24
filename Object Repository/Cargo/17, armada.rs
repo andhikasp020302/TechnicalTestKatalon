@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>17, armada</name>
+   <tag></tag>
+   <elementGuidId>a8e2f2ab-dac2-4868-94c3-eac580452020</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-3.rounded-lg.border.border-gray-200.bg-white.flex.items-center.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[8]/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>321027ef-8ad1-4c1b-a4a0-57fa9a63e63f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-3 rounded-lg border border-gray-200 bg-white flex items-center cursor-pointer</value>
+      <webElementGuid>58a83b3f-5e98-46aa-8c9e-f879e7aabd15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tooltip-target</name>
+      <type>Main</type>
+      <value>tooltip-animation</value>
+      <webElementGuid>8487d7e8-4802-483b-a83a-a65a82ecbdf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Silahkan Pilih Armada</value>
+      <webElementGuid>0f141988-69f6-4012-b8cb-ae0ce865271b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;mt-content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;bg-white shadow-custom px-8 py-8 rounded-2xl -top-20 lg:-top-14 relative z-10&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;w-1/2 mt-8 me-4&quot;]/div[@class=&quot;border border-gray-100 rounded-xl&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;p-3 rounded-lg border border-gray-200 bg-white flex items-center cursor-pointer&quot;]</value>
+      <webElementGuid>b7176d27-a57a-487a-88b6-0a737784253e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[8]/div/div/div[2]/div</value>
+      <webElementGuid>1a0c7e38-de32-49f4-b982-9ea1d938417e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::div[1]</value>
+      <webElementGuid>82e53ed6-d2c1-4ee5-b789-8df3a31ad195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitra'])[1]/preceding::div[3]</value>
+      <webElementGuid>231969bc-5a4a-45f9-8e01-37e1bc4849bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[2]/div</value>
+      <webElementGuid>06f8733c-5feb-4fd6-970b-0ff40fbf36fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Silahkan Pilih Armada' or . = 'Silahkan Pilih Armada')]</value>
+      <webElementGuid>909aadb6-ab75-4680-84cc-c4196a4d2842</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

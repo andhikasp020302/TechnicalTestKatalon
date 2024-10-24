@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tidak input email dan tidak input password</description>
+   <name>TCW03 - Login no data entry</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae774e27-6ba3-43d7-ad1f-5457b43e7ce7</testCaseGuid>
+</TestCaseEntity>

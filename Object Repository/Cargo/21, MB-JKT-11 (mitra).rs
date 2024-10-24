@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>21, MB-JKT-11 (mitra)</name>
+   <tag></tag>
+   <elementGuidId>47071db6-1844-4c5e-9240-de9f90971a88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.plan-content.insurance.p-3.mt-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div/div/div[2]/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>86d54643-f1c9-4cfd-ba61-c063831af9d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>plan-content insurance p-3 mt-3</value>
+      <webElementGuid>50d4b659-e087-4b57-a151-a245db52eb01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MB-JKT-1111.88km dari Kamu Jl. AL Bariah RT 10/04 No 19 Kampung Tengah, Kec. Kramat Jati, Jakarta Timur 13540</value>
+      <webElementGuid>4e551732-0294-477f-8d40-95e4a0a29e27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;fixed top-0 left-0 right-0 z-50 p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-[calc(100%-1rem)] max-h-full justify-center flex&quot;]/div[@class=&quot;relative w-full max-w-lg max-h-full&quot;]/div[@class=&quot;relative bg-white rounded-2xl shadow dark:bg-gray-700&quot;]/div[@class=&quot;p-6 pt-0 scroll-content-modal&quot;]/label[@class=&quot;plan&quot;]/div[@class=&quot;plan-content insurance p-3 mt-3&quot;]</value>
+      <webElementGuid>ead4c752-1bf2-4694-b14f-76bdfb67bca1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div/div[2]/label/div</value>
+      <webElementGuid>3910c16e-e639-4f81-bcd5-2157fc629bda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close modal'])[1]/following::div[3]</value>
+      <webElementGuid>db22726d-9081-4649-ae08-2c39056257c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Mitra'])[1]/following::div[3]</value>
+      <webElementGuid>03402492-569b-4063-82fb-e9ad10b1cb49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>1d2f11ae-a0e1-47ad-a608-b0cc76fab91e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'MB-JKT-1111.88km dari Kamu Jl. AL Bariah RT 10/04 No 19 Kampung Tengah, Kec. Kramat Jati, Jakarta Timur 13540' or . = 'MB-JKT-1111.88km dari Kamu Jl. AL Bariah RT 10/04 No 19 Kampung Tengah, Kec. Kramat Jati, Jakarta Timur 13540')]</value>
+      <webElementGuid>bef93918-df89-40aa-9027-2ba6d372e915</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>23,button_Simpan cargo</name>
+   <tag></tag>
+   <elementGuidId>2d2e5187-e8c8-4d11-aa62-0191dcb02b2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.text-white.w-full.bg-greenPrimary.font-medium.rounded-md.text-md.px-8.py-2.text-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[10]/div[2]/div[2]/div[8]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>32a21ee5-c6cb-4400-9140-34b8d4fb765a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-white w-full bg-greenPrimary font-medium rounded-md text-md px-8 py-2 text-center</value>
+      <webElementGuid>58af1abc-df86-4c6d-8dc8-902981fa158a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Simpan </value>
+      <webElementGuid>3fe15409-3597-4d0d-a2fe-c11ec6ab3e7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;mt-content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;bg-white shadow-custom px-8 py-8 rounded-2xl -top-20 lg:-top-14 relative z-10&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;border border-gray-100 rounded-xl mt-6 w-1/2&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;mt-4&quot;]/button[@class=&quot;text-white w-full bg-greenPrimary font-medium rounded-md text-md px-8 py-2 text-center&quot;]</value>
+      <webElementGuid>67935cde-db52-4729-a46e-4bae249b9218</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[10]/div[2]/div[2]/div[8]/button</value>
+      <webElementGuid>a4666b96-a0c7-4c43-a364-d47e9ab958d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Pembayaran'])[2]/following::button[1]</value>
+      <webElementGuid>0d90b86c-142f-46dc-8d9d-38a772909e48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT Trawlbens Teknologi Anak Indonesia'])[1]/preceding::button[1]</value>
+      <webElementGuid>96dfbbab-40fd-4111-9082-489ec4ff989b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IKUTI KAMI'])[1]/preceding::button[1]</value>
+      <webElementGuid>0f2510ef-37ac-4f26-9e61-d425ce737d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Simpan']/parent::*</value>
+      <webElementGuid>f35b26a4-a67c-467d-bd1f-90c8e3217686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/button</value>
+      <webElementGuid>3060360d-e158-44ef-a8c2-8b32feed0ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Simpan ' or . = ' Simpan ')]</value>
+      <webElementGuid>bcd7ca3a-956d-4ba0-b0e8-ad6c44683101</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

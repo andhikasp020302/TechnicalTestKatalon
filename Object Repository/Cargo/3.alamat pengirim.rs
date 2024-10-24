@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>3.alamat pengirim</name>
+   <tag></tag>
+   <elementGuidId>fb6f3a01-8670-4e45-9405-927ad01a25f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.search-google.mt-4.pac-target-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>534744d1-3a9b-499e-8cbe-e89789652b27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Pilih Lokasi Anda</value>
+      <webElementGuid>152b4663-ce43-4a74-a205-af6681a85326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control search-google mt-4 pac-target-input</value>
+      <webElementGuid>793afc72-cdef-46f5-822f-a41774c33859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>cc0810a0-d4c9-46e2-ae33-0252a28cde75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;mt-content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;bg-white shadow-custom px-8 py-8 rounded-2xl -top-20 lg:-top-14 relative z-10&quot;]/div[@class=&quot;border border-gray-100 rounded-xl mt-6&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;mt-4&quot;]/div[@class=&quot;relative mt-3&quot;]/div[@class=&quot;grid lg:grid-cols-2 ml-4&quot;]/div[@class=&quot;relative&quot;]/input[@class=&quot;form-control search-google mt-4 pac-target-input&quot;]</value>
+      <webElementGuid>774e1a18-9181-4370-8b39-30d3d7242150</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>2fa2f4a4-4750-4374-bb03-811a771904f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[2]/div[2]/div/div/div/input</value>
+      <webElementGuid>19607b4a-4c10-4a95-9e0c-8194ed643f48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/div/input</value>
+      <webElementGuid>edb37174-1e1e-45b6-9469-45be31632bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Pilih Lokasi Anda']</value>
+      <webElementGuid>68c3b10c-7878-43e4-9b2a-c93e846ccefb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
